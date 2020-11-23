@@ -1,0 +1,31 @@
+{
+    "configurations": [
+        {
+            "browse": {
+                "databaseFilename": "",
+                "limitSymbolsToIncludedHeaders": true
+            },
+            "includePath": [
+                "/home/hisignal/catkin_ws_hsgn_agv/devel/include/**",
+                "/home/hisignal/catkin_turtlebot/devel/include/**",
+                "/home/hisignal/catkin_ws_agvs_sim/devel/include/**",
+                "/opt/ros/kinetic/include/**",
+                "/home/hisignal/catkin_ws_hsgn_agv/src/controller_serial/include/**",
+                "/home/hisignal/catkin_ws_hsgn_agv/src/robotnik_purepursuit_planner/robotnik_pp_planner/include/**",
+                "/home/hisignal/catkin_ws_hsgn_agv/src/serial/include/**",
+                "/home/hisignal/catkin_ws_hsgn_agv/src/teleop_twist_joy/include/**",
+                "/home/hisignal/catkin_ws_hsgn_agv/src/turtlebot3_simulations/turtlebot3_fake/include/**",
+                "/home/hisignal/catkin_ws_hsgn_agv/src/turtlebot3_simulations/turtlebot3_gazebo/include/**",
+                "/home/hisignal/catkin_ws_hsgn_agv/src/turtlebot3/turtlebot3_slam/include/**",
+                "/home/hisignal/catkin_ws_hsgn_agv/src/twist_mux/include/**",
+                "/usr/include/**"
+            ],
+            "name": "ROS",
+            "intelliSenseMode": "gcc-x64",
+            "compilerPath": "/usr/bin/gcc",
+            "cStandard": "gnu11",
+            "cppStandard": "c++17"
+        }
+    ],
+    "version": 4
+}
