@@ -12,8 +12,8 @@ topics:
   timeout : 0.5
   priority: 80
 -
-  name    : ratate
-  topic   : ratate_vel
+  name    : rotate
+  topic   : rotate_vel
   timeout : 0.5
   priority: 75
 -
