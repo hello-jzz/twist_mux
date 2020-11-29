@@ -17,6 +17,11 @@ topics:
   timeout : 0.5
   priority: 75
 -
+  name    : straight
+  topic   : straight_vel
+  timeout : 0.5
+  priority: 70
+-
   name    : joystick
   topic   : joy_vel
   timeout : 0.5
