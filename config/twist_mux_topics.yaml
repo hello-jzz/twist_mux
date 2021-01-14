@@ -10,17 +10,17 @@ topics:
   name    : navigation
   topic   : nav_vel
   timeout : 0.5
-  priority: 80
+  priority: 70
 -
   name    : rotate
   topic   : rotate_vel
   timeout : 0.5
-  priority: 75
+  priority: 80
 -
   name    : straight
   topic   : straight_vel
   timeout : 0.5
-  priority: 70
+  priority: 75
 -
   name    : joystick
   topic   : joy_vel

@@ -25,4 +25,9 @@ locks:
   topic   : joy_priority
   timeout : 0.0
   priority: 50
+-
+  name    : stop
+  topic   : stop_vel_control  #检查到障碍物使用
+  timeout : 0.0
+  priority: 120
 

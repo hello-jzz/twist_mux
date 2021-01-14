@@ -5,5 +5,8 @@
         "/home/hisignal/catkin_ws_agvs_sim/devel/lib/python2.7/dist-packages",
         "/opt/ros/kinetic/lib/python2.7/dist-packages"
     ],
-    "ros.distro": "kinetic"
+    "ros.distro": "kinetic",
+    "files.associations": {
+        "cmath": "cpp"
+    }
 }
