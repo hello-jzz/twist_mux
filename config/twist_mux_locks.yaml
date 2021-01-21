@@ -11,7 +11,7 @@
 locks:
 -
   name    : pause
-  topic   : pause_navigation
+  topic   : pause_navigation  #自动导航使用
   timeout : 0.0
   # Same priority as joystick control, so it'll not block it.
   priority: 100
@@ -27,7 +27,7 @@ locks:
   priority: 50
 -
   name    : stop
-  topic   : stop_vel_control  #检查到障碍物使用
+  topic   : stop_navigation  #检查到障碍物使用
   timeout : 0.0
   priority: 120
 
